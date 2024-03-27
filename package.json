@@ -1,0 +1,22 @@
+{
+  "name": "olhoalerta",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Nome do projeto:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/jwt": "^8.0.0",
+    "@prisma/client": "^5.11.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "fastify": "^4.26.2",
+    "prisma": "^5.11.0",
+    "zod": "^3.22.4"
+  }
+}
