@@ -4,7 +4,7 @@ Nome do projeto:
 
 # RFs(Requisitos funcionais)
 -[X]Deve ser possível se cadastrar;
--[X]Deve ser possível se autenticar;
+-[ ]Deve ser possível se autenticar;
 -[ ]Deve ser possível obter o perfil de um usuário logado;
 
 # RNs(Regras de Negócio)
